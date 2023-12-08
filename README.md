@@ -1,12 +1,14 @@
 Code Point Creatives - Power Platform Solutions
+
 Welcome to the Code Point Creatives GitHub repository! We specialize in crafting innovative solutions on the Microsoft Power Platform, and this space serves as our central hub for sharing projects and contributing to the community.
 
 What you'll find here:
 
-Custom Power Apps: Create intuitive and user-friendly apps to streamline your business processes and automate workflows.
-Powerful Flows: Automate repetitive tasks and seamlessly integrate your data across various applications and services.
-Dynamic Power BI Dashboards: Gain valuable insights from your data with captivating and interactive dashboards built on Power BI.
-Open-source contributions: We're passionate about sharing our knowledge and actively contribute to the Power Platform open-source community with code samples and best practices.
+#Custom Power Apps: Create intuitive and user-friendly apps to streamline your business processes and automate workflows.
+#Powerful Flows: Automate repetitive tasks and seamlessly integrate your data across various applications and services.
+#Dynamic Power BI Dashboards: Gain valuable insights from your data with captivating and interactive dashboards built on Power BI.
+#Open-source contributions: We're passionate about sharing our knowledge and actively contribute to the Power Platform open-source community with code samples and best practices.
+
 How you can benefit:
 
 Discover inspiration: Explore our diverse portfolio of projects to spark ideas for your own Power Platform solutions.
