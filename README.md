@@ -1,37 +1,73 @@
-# Code Point Creatives - Power Platform Solutions
+# Document Management System
 
-Welcome to the Code Point Creatives GitHub repository! We specialize in crafting innovative solutions on the Microsoft Power Platform, and this space serves as our central hub for sharing projects and contributing to the community.
+## Overview
 
-## What you'll find here:
+This project aims to create a robust Document Management System (DMS) with a focus on efficient document organization, version control, approval workflows, metadata management, user access, and security.
 
-- **Custom Power Apps:** Create intuitive and user-friendly apps to streamline your business processes and automate workflows.
+## Features
 
-- **Powerful Flows:** Automate repetitive tasks and seamlessly integrate your data across various applications and services.
+### Document Library Organization
 
-- **Dynamic Power BI Dashboards:** Gain valuable insights from your data with captivating and interactive dashboards built on Power BI.
+- **Logical Folders and Subfolders:**
+  - Organize documents based on content type, department, and other relevant criteria.
 
-- **Open-source contributions:** We're passionate about sharing our knowledge and actively contribute to the Power Platform open-source community with code samples and best practices.
+- **Views:**
+  - **Standard View:**
+    - Displays all documents in a list format with customizable columns (title, author, date created, modified date).
+  - **Group by View:**
+    - Groups documents based on specific columns, facilitating quick access to documents related to a particular category.
+  - **Calendar View:**
+    - Displays documents as calendar events, suitable for documents with associated deadlines or dates.
 
-## How you can benefit:
+- **Filters:**
+  - **Basic Filters:**
+    - Filter documents by date created, modified date, author, or any displayed column.
+  - **Metadata Filters:**
+    - Utilize custom metadata columns for filtering based on keywords, tags, categories, or other relevant attributes.
 
-- **Discover inspiration:** Explore our diverse portfolio of projects to spark ideas for your own Power Platform solutions.
+### Version Control and Approval Workflows
 
-- **Accelerate development:** Gain access to ready-to-use templates and components to speed up your development process.
+- **Version Control:**
+  - Track changes made to documents and revert to previous versions if needed.
 
-- **Learn from the best:** Dive into our best practices and implementation techniques to enhance your Power Platform skills.
+- **Approval Workflows:**
+  - Implement workflows to ensure proper review and authorization before finalizing documents.
 
-- **Contribute and collaborate:** Share your own projects and feedback to contribute to the community and help us unlock the full potential of Power Platform together.
+### Metadata Management
 
-## Join the journey!
+- **Custom Metadata Columns:**
+  - Define metadata columns capturing information relevant to documents (e.g., Department, keywords, approval status).
 
-We believe in collaboration and continuous improvement. Feel free to fork our projects, contribute code, and share your feedback. Let's work together to build a smarter and more efficient future with Microsoft Power Platform!
+- **Document Status and Approval Workflow Integration:**
+  - Set document status based on approval workflow outcomes.
 
-## Connect with us:
+### User Access and Security
 
-- LinkedIn: [Code Point Creatives](https://www.linkedin.com/company/codepoint-creatives/mycompany/)
-- Website: [Code Point Creatives](https://codepointcreatives.com/)
+- **Permissions:**
+  - Set appropriate permissions for user groups, controlling access to documents and functionalities.
+    - Read access, Write access, Delete access, Upload access, Manage permissions.
+  - Divide users into groups based on roles and responsibilities.
 
-Let's build something amazing!
+### Auditing and Logging
 
+- Implement auditing and logging mechanisms to track user actions within the SharePoint environment.
 
+## Resources
 
+- [Configuring The List Using JSON](#)
+- [Meta Data & Adding Meta Data to SharePoint Columns](#)
+- [Calendar View 1](#)
+- [Calendar View 2](#)
+
+## Steps To Follow
+
+1. **Create Your Own Branch:**
+   - Create a new branch in the repository to work on this project.
+
+2. **Generate a Read Me:**
+   - Update the Read Me file with details about the project and your personal information.
+
+3. **After Completion of the Project:**
+   - Add a DEMO video link in your Read Me showcasing the Document Management System in action.
+
+Feel free to customize and expand on the features and resources based on your project's specific requirements. Happy coding!
