@@ -53,11 +53,10 @@ This project aims to create a robust Document Management System (DMS) with a foc
 - Implement auditing and logging mechanisms to track user actions within the SharePoint environment.
 
 ## Resources
-
-- [Configuring The List Using JSON](#)
-- [Meta Data & Adding Meta Data to SharePoint Columns](#)
-- [Calendar View 1](#)
-- [Calendar View 2](#)
+ -[Configuring The List Using JSON](https://learn.microsoft.com/en-us/sharepoint/dev/declarative-customization/list-form-configuration)
+ -[Meta Data & Adding Meta Data to share point Columns](https://blog.enterprisedna.co/adding-metadata-in-sharepoint-using-columns/#:~:text=Metadata%20in%20SharePoint%20provides%20information,document%20library%20to%20categorize%20files)
+ -[Calendar View 1](https://support.microsoft.com/en-au/office/create-a-calendar-view-from-a-list-d7dcc7f6-8838-4f46-a60b-04048ebc3f00#:~:text=Select%20Create%20new%20view.,column%20or%20columns%20should%20apply.)
+- [Calendar View 2]([https://learn.microsoft.com/en-us/sharepoint/dev/declarative-customization/list-form-configuration](https://lists.handsontek.net/format-microsoft-lists-calendar-view/#google_vignette))
 
 ## Steps To Follow
 
