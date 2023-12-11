@@ -65,6 +65,7 @@ This project aims to create a robust Document Management System (DMS) with a foc
 - **[Calendar View 2]**
 **(https://learn.microsoft.com/en-us/sharepoint/dev/declarative-customization/list-form-configuration](https://lists.handsontek.net/format-microsoft-lists-calendar-view/#google_vignette)**
 
+- **[Customize permissions for a SharePoint list or library]** (https://support.microsoft.com/en-us/office/customize-permissions-for-a-sharepoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782#:~:text=Assign%20unique%20permissions%20in%20SharePoint&text=grant%20unique%20permissions%3A-,Go%20to%20the%20list%2C%20library%2C%20or%20survey%20and%20open%20it,won't%20see%20Grant%20Permissions.)
 ## Steps To Follow
 
 1. **Create Your Own Branch:**
