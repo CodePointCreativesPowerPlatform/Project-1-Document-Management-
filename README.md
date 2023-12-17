@@ -30,7 +30,7 @@ my first Recurrence Workflow gracefully sweeps rejected documents away to a secr
 
 Witness the second Recurrence Workflow working silently in the background, deleting aged, rejected documents after 7 days. A tidy space is a happy space.
 
-**3. Approval Workflow Extravaganza**
+**3. Approval Workflow **
 
 Raise the curtain for  integrated Approval Workflow, a choreography of systematic document reviews and authorizations.
 
@@ -38,7 +38,7 @@ Raise the curtain for  integrated Approval Workflow, a choreography of systemati
 
 Take control with custom metadata columns capturing document intricacies:
 
-## Fort Knox Security - Low-Level Permissions
+##  Security - Low-Level Permissions
 
 Forge a fortress around your documents! I've customized low-level permissions, cutting ties with site inheritance for a tailored, secure experience.
 
