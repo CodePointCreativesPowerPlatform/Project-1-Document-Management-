@@ -34,13 +34,17 @@ Witness the second Recurrence Workflow working silently in the background, delet
 
 Raise the curtain for  integrated Approval Workflow, a choreography of systematic document reviews and authorizations.
 
-**4. Meta Data Mastery **
+**4.** Meta Data Mastery** **
 
 Take control with custom metadata columns capturing document intricacies:
 
 ## Fort Knox Security - Low-Level Permissions
 
 Forge a fortress around your documents! I've customized low-level permissions, cutting ties with site inheritance for a tailored, secure experience.
+
+## Project Images 
+**![Image Alt text](Images/photo_10_2023-12-17_12-41-37.jpg)**
+
 
 ## Portfolio Playground
 
