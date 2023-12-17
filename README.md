@@ -4,13 +4,13 @@
 
 🚀 Welcome to our Document Management System (DMS) project, where excellence meets efficiency! 🚀
 
-### Key Features
+### What I added To The project 
 
 **1. JSON Magic for Views**
-
-Unleash the power of dynamic JSON formatting across all views. Marvel at the vibrancy:
-- Rejected documents paint the town red.
-- Documents reviewed today bask in a warm yellow glow.
+-For Standard View (All Documents)
+-For Calendar View 
+-For Approved By View
+-For Gallery View
 
 **2. Gallery Bliss with Tile View**
 
@@ -34,6 +34,10 @@ Witness the second Recurrence Workflow working silently in the background, delet
 
 Raise the curtain for our integrated Approval Workflow, a choreography of systematic document reviews and authorizations.
 
+**4. Meta Data Mastery **
+
+Take control with custom metadata columns capturing document intricacies:
+
 ## Fort Knox Security - Low-Level Permissions
 
 Forge a fortress around your documents! We've customized low-level permissions, cutting ties with site inheritance for a tailored, secure experience.
@@ -43,6 +47,7 @@ Forge a fortress around your documents! We've customized low-level permissions, 
 Dive deeper into our creative universe! [Explore our portfolio](link_to_portfolio) for more wonders.
 
 🎉 Thank you for choosing our Awesome Document Management System! Your journey to document nirvana begins here. For questions or applause, reach out to us anytime. Happy managing! 🎉
+
 ## Connect with us:
 
 - LinkedIn: [Code Point Creatives](https://www.linkedin.com/company/codepoint-creatives/mycompany/)
