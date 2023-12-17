@@ -20,7 +20,7 @@ Indulge in a visually stunning Gallery Tile View that turns your document librar
 
 Behold the Standard View, not as you know it!  meticulous CSS styling adds flair and finesse to your document listings.
 
-## Workflow Wizardry
+## Workflows
 
 **1. Move to "Rejected Documents" - Like Magic!**
 
