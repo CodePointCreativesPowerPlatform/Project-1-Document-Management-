@@ -18,13 +18,13 @@ Indulge in a visually stunning Gallery Tile View that turns your document librar
 
 **3. Standard View, Leveled Up**
 
-Behold the Standard View, not as you know it! Our meticulous CSS styling adds flair and finesse to your document listings.
+Behold the Standard View, not as you know it!  meticulous CSS styling adds flair and finesse to your document listings.
 
 ## Workflow Wizardry
 
 **1. Move to "Rejected Documents" - Like Magic!**
 
-Our first Recurrence Workflow gracefully sweeps rejected documents away to a secret garden called "Rejected Documents." Organized and stress-free.
+my first Recurrence Workflow gracefully sweeps rejected documents away to a secret garden called "Rejected Documents." Organized and stress-free.
 
 **2. Declutter with Document Deletion**
 
@@ -32,7 +32,7 @@ Witness the second Recurrence Workflow working silently in the background, delet
 
 **3. Approval Workflow Extravaganza**
 
-Raise the curtain for our integrated Approval Workflow, a choreography of systematic document reviews and authorizations.
+Raise the curtain for  integrated Approval Workflow, a choreography of systematic document reviews and authorizations.
 
 **4. Meta Data Mastery **
 
@@ -40,7 +40,7 @@ Take control with custom metadata columns capturing document intricacies:
 
 ## Fort Knox Security - Low-Level Permissions
 
-Forge a fortress around your documents! We've customized low-level permissions, cutting ties with site inheritance for a tailored, secure experience.
+Forge a fortress around your documents! I've customized low-level permissions, cutting ties with site inheritance for a tailored, secure experience.
 
 ## Portfolio Playground
 
