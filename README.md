@@ -1,79 +1,56 @@
-# Document Management System
+# Document Management System (DMS)
 
 ## Overview
-
-This project aims to create a robust Document Management System (DMS) with a focus on efficient document organization, version control, approval workflows, metadata management, user access, and security.
+The Document Management System (DMS) is a robust system designed to efficiently organize, control, and manage documents within an organization. It focuses on features such as document organization, version control, approval workflows, metadata management, user access, security, and automation.
 
 ## Features
 
 ### Document Library Organization
+The DMS provides various features to organize documents effectively:
 
-- **Logical Folders and Subfolders:**
-  - Organize documents based on content type, department, and other relevant criteria.
-
-- **Views:**
-  - **Standard View:**
-    - Displays all documents in a list format with customizable columns (title, author, date created, modified date).
-  - **Group by View:**
-    - Groups documents based on specific columns, facilitating quick access to documents related to a particular category.
-  - **Calendar View:**
-    - Displays documents as calendar events, suitable for documents with associated deadlines or dates.
-
-- **Filters:**
-  - **Basic Filters:**
-    - Filter documents by date created, modified date, author, or any displayed column.
-  - **Metadata Filters:**
-    - Utilize custom metadata columns for filtering based on keywords, tags, categories, or other relevant attributes.
+- Logical Folders and Subfolders: Documents can be organized based on content type, department, or any relevant criteria.
+- Views:
+  - Standard View: Displays documents in a list format with customizable columns, such as title, author, date created, and modified date.
+  - Group by View: Groups documents based on specific columns, allowing quick access to documents related to a particular category.
+  - Calendar View: Presents documents as calendar events, suitable for documents with associated deadlines or dates.
+- Filters:
+  - Basic Filters: Users can filter documents by date created, modified date, author, or any displayed column.
+  - Metadata Filters: Custom metadata columns can be used to filter documents based on keywords, tags, categories, or other relevant attributes.
 
 ### Version Control and Approval Workflows
+The DMS ensures document integrity and facilitates collaborative workflows:
 
-- **Version Control:**
-  - Track changes made to documents and revert to previous versions if needed.
-
-- **Approval Workflows:**
-  - Implement workflows to ensure proper review and authorization before finalizing documents.
+- Version Control: Changes made to documents are tracked, enabling users to revert to previous versions if necessary.
+- Approval Workflows: Workflows can be implemented to ensure proper review and authorization before finalizing documents.
 
 ### Metadata Management
+Metadata plays a crucial role in document management and retrieval:
 
-- **Custom Metadata Columns:**
-  - Define metadata columns capturing information relevant to documents (e.g., Department, keywords, approval status).
-
-- **Document Status and Approval Workflow Integration:**
-  - Set document status based on approval workflow outcomes.
+- Custom Metadata Columns: Administrators can define metadata columns to capture information relevant to documents, such as department, keywords, and approval status.
+- Document Status and Approval Workflow Integration: The document status can be automatically updated based on the outcome of the approval workflow.
 
 ### User Access and Security
+User access and security are essential aspects of a DMS:
 
-- **Permissions:**
-  - Set appropriate permissions for user groups, controlling access to documents and functionalities.
-    - Read access, Write access, Delete access, Upload access, Manage permissions.
-  - Divide users into groups based on roles and responsibilities.
+- Permissions: The system allows setting appropriate permissions for user groups, controlling access to documents and functionalities. Permissions can include read access, write access, delete access, upload access, and manage permissions.
+- User Groups: Users can be divided into groups based on their roles and responsibilities, ensuring appropriate access rights.
 
 ### Auditing and Logging
+To maintain accountability and track user actions, the DMS includes auditing and logging mechanisms:
 
-- Implement auditing and logging mechanisms to track user actions within the SharePoint environment.
+- Auditing and Logging: The system records user actions within the DMS environment, providing an audit trail of document-related activities.
 
-## Resources
- -**[Configuring The List Using JSON]**
-      **(https://learn.microsoft.com/en-us/sharepoint/dev/declarative-customization/list-form-configuration)**
+## Automation and Customizations
 
- -**[Meta Data & Adding Meta Data to share point Columns]**
-    **(https://blog.enterprisedna.co/adding-metadata-in-sharepoint-using-columns/#:~:text=Metadata%20in%20SharePoint%20provides%20information,document%20library%20to%20categorize%20files)**
+In addition to the core features mentioned above, the following customizations and automations have been implemented:
 
- -**[Calendar View 1]**
-**(https://support.microsoft.com/en-au/office/create-a-calendar-view-from-a-list-d7dcc7f6-8838-4f46-a60b-04048ebc3f00#:~:text=Select%20Create%20new%20view.,column%20or%20columns%20should%20apply.)**
+1. Automated Approval Flow: When a new file is added to the document library, an automated flow is triggered. It sends an approval request and updates the document's status to either "rejected" or "approved" based on the response received.
+   - If the document is rejected, it is moved to another folder.
+2. Automatic Deletion of Rejected Files: Another automation is in place to check whether the files in the rejected folder have been there for more than seven days. If so, the automation deletes those files.
+3. Customized Document Formatting: The documents or files within the DMS have been customized using JSON formatting, allowing for a tailored and visually appealing display.
+4. Additional Views:
+   - Approved Files View: This view displays only the approved files, providing a quick overview of the documents that have undergone the approval process successfully.
+   - Grouped by Calendar View: Documents are grouped based on calendar events, making it convenient for managing documents associated with specific deadlines or dates.
+   - Recently Viewed by Owner View: This view shows the documents recently accessed by the owner, facilitating easy retrieval of recently accessed files.
 
-- **[Calendar View 2]**
-**(https://learn.microsoft.com/en-us/sharepoint/dev/declarative-customization/list-form-configuration](https://lists.handsontek.net/format-microsoft-lists-calendar-view/#google_vignette)**
-
-## Steps To Follow
-
-1. **Create Your Own Branch:**
-   - Create a new branch in the repository to work on this project.
-
-2. **Generate a Read Me:**
-   - Update the Read Me file with details about the project and your personal information.
-
-3. **After Completion of the Project:**
-   - Add a DEMO video link in your Read Me showcasing the Document Management System in action.
-
-Feel free to customize and expand on the features and resources based on your project's specific requirements. Happy coding!
+Please note that the above analysis is based on the information provided, and any additional details or specific requirements should be considered for further refinement of the DMS.
