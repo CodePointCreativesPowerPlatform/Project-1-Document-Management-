@@ -31,17 +31,19 @@ This project expands upon the core Document Management System (DMS) functionalit
 ## Visual Cues:
 
 **JSON formatting:** Color-coded status labels (green for Approved, red for Rejected) in views and columns offer quick visual indicators. (New addition)
+
+
 ### Additional features:
 
-**Document Library Organization:** Logical folders, subfolders, views (Standard, Group by, Calendar), filters (basic and metadata) for efficient document classification and access.
 **Version Control and Approval Workflows:** Track changes and implement review/authorization processes to ensure document accuracy and control.
 User Access and Security: Granular permissions (read, write, delete, upload, manage) assigned to user groups for secure document access control.
+
 **Auditing and Logging:** Track user actions within the SharePoint environment for enhanced accountability and transparency.
 Benefits:
 
 **Improved Accessibility:** Intuitive folder structure and categorized views simplify document access and retrieval.
 Enhanced Collaboration: Granular permissions and clear approval trails ensure proper control and accountability.
-Streamlined File Management: Automated workflows for status updates and cleanup optimize storage and organization.
+** Added Approved date from Column**: to know the days passed frpm the Approved date 
 
 **This enhanced DMS system empowers users with efficient document management, clear access control, and automated workflows, contributing to a more organized, collaborative, and secure workspace.**
 # Exported  Automated Flows
@@ -61,6 +63,13 @@ Streamlined File Management: Automated workflows for status updates and cleanup 
 
 
 <img width="150" alt="Screenshot 2023-12-18 112225" src="https://github.com/CodePointCreativesPowerPlatform/Project-1-Document-Management-/assets/89215713/83566cd5-1931-4eee-aa42-2539b79cc379">
+## Snapshots From Document Library
+
+<img width="200" alt="Screenshot 2023-12-18 113312" src="https://github.com/CodePointCreativesPowerPlatform/Project-1-Document-Management-/assets/89215713/5526a703-fbc2-48e1-b160-dda9343face7">
+<img width="200" alt="Screenshot 2023-12-18 113328" src="https://github.com/CodePointCreativesPowerPlatform/Project-1-Document-Management-/assets/89215713/92949b7d-9221-4d31-982f-4d4a2f869de5">
+<img width="200" alt="Screenshot 2023-12-18 113353" src="https://github.com/CodePointCreativesPowerPlatform/Project-1-Document-Management-/assets/89215713/831c71a0-62a1-4e96-a9a3-6035a9b94227">
+<img width="200" alt="Screenshot 2023-12-18 113430" src="https://github.com/CodePointCreativesPowerPlatform/Project-1-Document-Management-/assets/89215713/8dfbaab0-4afa-4485-8a15-56bb89073474">
+
 
 
 
