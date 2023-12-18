@@ -53,4 +53,6 @@ In addition to the core features mentioned above, the following customizations a
    - Grouped by Calendar View: Documents are grouped based on calendar events, making it convenient for managing documents associated with specific deadlines or dates.
    - Recently Viewed by Owner View: This view shows the documents recently accessed by the owner, facilitating easy retrieval of recently accessed files.
 
-Please note that the above analysis is based on the information provided, and any additional details or specific requirements should be considered for further refinement of the DMS.
+User Permissions for Reading and Editing
+
+To enhance user access control, the DMS includes the ability to assign specific permissions for reading and editing documents. This feature ensures that only authorized individuals can view and modify documents based on their assigned roles and responsibilities.
