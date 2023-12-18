@@ -63,6 +63,7 @@ Enhanced Collaboration: Granular permissions and clear approval trails ensure pr
 
 
 <img width="150" alt="Screenshot 2023-12-18 112225" src="https://github.com/CodePointCreativesPowerPlatform/Project-1-Document-Management-/assets/89215713/83566cd5-1931-4eee-aa42-2539b79cc379">
+
 ## Snapshots From Document Library
 
 <img width="200" alt="Screenshot 2023-12-18 113312" src="https://github.com/CodePointCreativesPowerPlatform/Project-1-Document-Management-/assets/89215713/5526a703-fbc2-48e1-b160-dda9343face7">
