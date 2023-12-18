@@ -2,72 +2,42 @@
 
 ## Overview
 
-This project aims to create a robust Document Management System (DMS) with a focus on efficient document organization, version control, approval workflows, metadata management, user access, and security.
+This project expands upon the core Document Management System (DMS) functionality with powerful customization for organization, approval, and metadata management. Building upon the features described in the original readme, we've further enhanced the system for increased usability and efficiency.
 
-## Features
+## Enhanced Features:
 
-### Document Library Organization
+### Granular Permissions:
 
-- **Logical Folders and Subfolders:**
-  - Organize documents based on content type, department, and other relevant criteria.
+**Inheritance Broken:** Specific permissions granted for read, edit, and other actions to designated groups, ensuring precise control over document access. (Originally mentioned)
+### Custom Metadata Management:
 
-- **Views:**
-  - **Standard View:**
-    - Displays all documents in a list format with customizable columns (title, author, date created, modified date).
-  - **Group by View:**
-    - Groups documents based on specific columns, facilitating quick access to documents related to a particular category.
-  - **Calendar View:**
-    - Displays documents as calendar events, suitable for documents with associated deadlines or dates.
+**File Status Tracking:** A "Status" column categorizes files as Approved, Rejected, or Pending for efficient filtering and grouping. (New addition)
+Approver Identification: An "Approver Name" column stores the individual who approved or rejected each file, providing clear accountability. (New addition)
+Organized Folder Structure:
 
-- **Filters:**
-  - **Basic Filters:**
-    - Filter documents by date created, modified date, author, or any displayed column.
-  - **Metadata Filters:**
-    - Utilize custom metadata columns for filtering based on keywords, tags, categories, or other relevant attributes.
+**Type-Based Folders:** Dedicated folders ("CSV", "PDF", "MP4", "JPEG") automatically group files based on their extensions, simplifying navigation and retrieval. (New addition)
+**Automated Workflows:**
 
-### Version Control and Approval Workflows
+**Approval-Driven Status Update:** A Power Automate flow triggered by file creation updates the status based on the approval outcome (Approved/Rejected), respectively moving files to designated folders. (New addition)
+Weekly Rejected File Cleanup: Another flow automatically deletes Rejected files older than one week, streamlining storage management. (New addition)
+## Enhanced Views:
 
-- **Version Control:**
-  - Track changes made to documents and revert to previous versions if needed.
+**Calendar View:** Month-based calendar view for documents with associated deadlines or dates. (Originally mentioned)
+**Standard Views:** Customizable list views with columns like title, author, date, and status. (Originally mentioned)
+**All Documents View:** Comprehensive listing of all documents in the library. (Originally mentioned)
+## Visual Cues:
 
-- **Approval Workflows:**
-  - Implement workflows to ensure proper review and authorization before finalizing documents.
+**JSON formatting:** Color-coded status labels (green for Approved, red for Rejected) in views and columns offer quick visual indicators. (New addition)
+Additional features from the original readme:
 
-### Metadata Management
+**Document Library Organization:** Logical folders, subfolders, views (Standard, Group by, Calendar), filters (basic and metadata) for efficient document classification and access.
+**Version Control and Approval Workflows:** Track changes and implement review/authorization processes to ensure document accuracy and control.
+User Access and Security: Granular permissions (read, write, delete, upload, manage) assigned to user groups for secure document access control.
+**Auditing and Logging:** Track user actions within the SharePoint environment for enhanced accountability and transparency.
+Benefits:
 
-- **Custom Metadata Columns:**
-  - Define metadata columns capturing information relevant to documents (e.g., Department, keywords, approval status).
+**Improved Accessibility:** Intuitive folder structure and categorized views simplify document access and retrieval.
+Enhanced Collaboration: Granular permissions and clear approval trails ensure proper control and accountability.
+Streamlined File Management: Automated workflows for status updates and cleanup optimize storage and organization.
 
-- **Document Status and Approval Workflow Integration:**
-  - Set document status based on approval workflow outcomes.
-
-### User Access and Security
-
-- **Permissions:**
-  - Set appropriate permissions for user groups, controlling access to documents and functionalities.
-    - Read access, Write access, Delete access, Upload access, Manage permissions.
-  - Divide users into groups based on roles and responsibilities.
-
-### Auditing and Logging
-
-- Implement auditing and logging mechanisms to track user actions within the SharePoint environment.
-
-## Resources
-
-- [Configuring The List Using JSON](#)
-- [Meta Data & Adding Meta Data to SharePoint Columns](#)
-- [Calendar View 1](#)
-- [Calendar View 2](#)
-
-## Steps To Follow
-
-1. **Create Your Own Branch:**
-   - Create a new branch in the repository to work on this project.
-
-2. **Generate a Read Me:**
-   - Update the Read Me file with details about the project and your personal information.
-
-3. **After Completion of the Project:**
-   - Add a DEMO video link in your Read Me showcasing the Document Management System in action.
-
-Feel free to customize and expand on the features and resources based on your project's specific requirements. Happy coding!
+**This enhanced DMS system empowers users with efficient document management, clear access control, and automated workflows, contributing to a more organized, collaborative, and secure workspace.**
