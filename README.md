@@ -9,3 +9,6 @@ demo link: https://files.fm/u/geqh8ame9h
 # A bit about me
 
 My name is Yared Gebru. I graduated in computer science and currently work at Code Point Creative. I enjoy discovering new things and have a passion for coding.
+## Project Image
+
+![Screenshot (33)](https://github.com/CodePointCreativesPowerPlatform/Project-1-Document-Management-/assets/96535545/af958127-f548-4a46-9bc0-19afbe4b070d)
