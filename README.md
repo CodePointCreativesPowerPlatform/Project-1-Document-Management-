@@ -21,3 +21,6 @@ My name is Yared Gebru. I graduated in computer science and currently work at Co
 
 ![Screenshot (35)](https://github.com/CodePointCreativesPowerPlatform/Project-1-Document-Management-/assets/96535545/4f06eb56-e6de-4e2b-a6c5-4fb590509bf5)
 ![Screenshot (36)](https://github.com/CodePointCreativesPowerPlatform/Project-1-Document-Management-/assets/96535545/2df2a002-5986-4912-be51-e9594a7b7b14)
+
+![Screenshot (35)](https://github.com/CodePointCreativesPowerPlatform/Project-1-Document-Management-/assets/96535545/01e31a08-799e-43ce-92a3-4322534b14f3)
+![Screenshot (36)](https://github.com/CodePointCreativesPowerPlatform/Project-1-Document-Management-/assets/96535545/504aacff-b1b2-485f-9df8-8c98e13b27d4)
