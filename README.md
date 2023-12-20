@@ -17,7 +17,7 @@ Welcome to the Document Library Organization project! This project aims to enhan
          Suitable for documents with associated deadlines or dates. 
 
 - Filters:
-   Basic Filters: Filter documents by date created modified date, author, or any displayed column. 
+   Basic Filters: ** Filter documents by date created modified date, author, or any displayed column. 
 - Version Control:
      - Track changes made to documents. 
      - Revert to previous versions if needed.
