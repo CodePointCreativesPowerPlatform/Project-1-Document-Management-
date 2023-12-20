@@ -29,8 +29,7 @@ Metadata plays a crucial role in document management and retrieval:
 
 - Custom Metadata Columns: Administrators can define metadata columns to capture information relevant to documents, such as department, keywords, and approval status.
 - Document Status and Approval Workflow Integration: The document status can be automatically updated based on the outcome of the approval workflow.
-
-![Screenshot 2023-12-20 163729](https://github.com/CodePointCreativesPowerPlatform/Project-1-Document-Management-/assets/104963156/796962bc-a512-4b92-ac71-5cbbe83bd20f)
+-![Screenshot 2023-12-20 163729](https://github.com/CodePointCreativesPowerPlatform/Project-1-Document-Management-/assets/104963156/796962bc-a512-4b92-ac71-5cbbe83bd20f)
  User Access and Security
 User access and security are essential aspects of a DMS:
 
