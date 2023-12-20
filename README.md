@@ -39,7 +39,7 @@ Welcome to the Document Library Organization project! This project aims to enhan
   - To Automatically delete rejected documents that are older than 7 days
   - Update Approver name to approver column  
 
-
+![Screenshot (280)](https://github.com/CodePointCreativesPowerPlatform/Project-1-Document-Management-/assets/79313837/11ebbf06-719c-40cc-92d9-13819ce5865b)
 ** Contribution:
   I welcome contributions! If you have any ideas or improvements, please feel free to open an issue or submit a pull request. 
 
