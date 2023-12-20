@@ -33,7 +33,7 @@ Welcome to the Document Library Organization project! This project aims to enhan
      - Read access, Write access, Delete access, Upload access, Manage permissions.
      - Divide users into groups based on roles and responsibilities. 
 
-## Approval Workflows : 
+## Workflows : 
   - Set document status based on approval workflow outcomes. 
   - Move The Documents That are Rejected to a folder named Rejected Documents 
   - To Automatically delete rejected documents that are older than 7 days
