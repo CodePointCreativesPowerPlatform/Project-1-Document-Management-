@@ -43,7 +43,7 @@ Welcome to the Document Library Organization project! This project aims to enhan
 ** Contribution:
   I welcome contributions! If you have any ideas or improvements, please feel free to open an issue or submit a pull request. 
 
-## Connect Me:
+## Contact Me:
 
 - LinkedIn: 
 
