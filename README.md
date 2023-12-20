@@ -1,37 +1,36 @@
-# Code Point Creatives - Power Platform Solutions
-
-Welcome to the Code Point Creatives GitHub repository! We specialize in crafting innovative solutions on the Microsoft Power Platform, and this space serves as our central hub for sharing projects and contributing to the community.
+# Document Library Organization 
+**Overview 
+Welcome to the Document Library Organization project! This project aims to enhance the organization and management of documents within your system, providing a robust structure and a range of features to streamline your document handling processes. 
 
 ## What you'll find here:
 
-- **Custom Power Apps:** Create intuitive and user-friendly apps to streamline your business processes and automate workflows.
+- **Logical Folders and Subfolders:** Organize documents efficiently based on content type, department. This logical structure ensures that your documents are easily accessible and well-organized. 
+- **Views:**Standard View: **Displays all documents in a list format.**Group by View:Groups documents based on Approver name 
 
-- **Powerful Flows:** Automate repetitive tasks and seamlessly integrate your data across various applications and services.
+Facilitates quick access to documents related to a particular category. **Calendar View: Suitable for documents with associated deadlines or dates. 
 
-- **Dynamic Power BI Dashboards:** Gain valuable insights from your data with captivating and interactive dashboards built on Power BI.
+- **Filters:**Basic Filters: **Filter documents by date created modified date, author, or any displayed column. 
+- **Version Control :**Track changes made to documents. 
 
-- **Open-source contributions:** We're passionate about sharing our knowledge and actively contribute to the Power Platform open-source community with code samples and best practices.
+Revert to previous versions if needed. 
 
-## How you can benefit:
+## Approval Workflows : **Set document status based on approval workflow outcomes. 
 
-- **Discover inspiration:** Explore our diverse portfolio of projects to spark ideas for your own Power Platform solutions.
+**Move The Documents That are Rejected to a folder named Rejected Documents 
 
-- **Accelerate development:** Gain access to ready-to-use templates and components to speed up your development process.
+**To Automatically delete rejected documents that are older than 7 days 
 
-- **Learn from the best:** Dive into our best practices and implementation techniques to enhance your Power Platform skills.
+**Update Approver name to approver column  
 
-- **Contribute and collaborate:** Share your own projects and feedback to contribute to the community and help us unlock the full potential of Power Platform together.
+- **Metadata Management :**Custom Metadata Columns **Define metadata columns capturing information relevant to documents (e.g., Department, keywords, approval status). 
 
-## Join the journey!
+- **User Access and Security :**Permissions **Set appropriate permissions for user groups. :** Dive into our best practices and implementation techniques to enhance your Power Platform skills.**Read access, Write access, Delete access, Upload access, Manage permissions. **Divide users into groups based on roles and responsibilities. 
 
-We believe in collaboration and continuous improvement. Feel free to fork our projects, contribute code, and share your feedback. Let's work together to build a smarter and more efficient future with Microsoft Power Platform!
+- **Contribution:**I welcome contributions! If you have any ideas or improvements, please feel free to open an issue or submit a pull request. 
 
-## Connect with us:
+## Connect Me:
 
-- LinkedIn: [Code Point Creatives](https://www.linkedin.com/company/codepoint-creatives/mycompany/)
-- Website: [Code Point Creatives](https://codepointcreatives.com/)
-
-Let's build something amazing!
+- LinkedIn: 
 
 
 
