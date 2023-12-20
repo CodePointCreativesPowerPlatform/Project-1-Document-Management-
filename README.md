@@ -20,13 +20,7 @@ Welcome to the Document Library Organization project! This project aims to enhan
    Basic Filters: Filter documents by date created modified date, author, or any displayed column. 
 - Version Control:
      - Track changes made to documents. 
-     - Revert to previous versions if needed. 
-
-##Approval Workflows : 
-  - Set document status based on approval workflow outcomes. 
-  - Move The Documents That are Rejected to a folder named Rejected Documents 
-  - To Automatically delete rejected documents that are older than 7 days
-  - Update Approver name to approver column  
+     - Revert to previous versions if needed.
 
 - Metadata Management :
    - Custom Metadata Columns
@@ -37,6 +31,13 @@ Welcome to the Document Library Organization project! This project aims to enhan
      - Dive into our best practices and implementation techniques to enhance your Power Platform skills.
      - Read access, Write access, Delete access, Upload access, Manage permissions.
      - Divide users into groups based on roles and responsibilities. 
+
+## Approval Workflows : 
+  - Set document status based on approval workflow outcomes. 
+  - Move The Documents That are Rejected to a folder named Rejected Documents 
+  - To Automatically delete rejected documents that are older than 7 days
+  - Update Approver name to approver column  
+
 
 - Contribution:
   I welcome contributions! If you have any ideas or improvements, please feel free to open an issue or submit a pull request. 
