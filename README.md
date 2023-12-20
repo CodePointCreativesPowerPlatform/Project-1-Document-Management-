@@ -38,9 +38,10 @@ Welcome to the Document Library Organization project! This project aims to enhan
   - Move The Documents That are Rejected to a folder named Rejected Documents 
   - To Automatically delete rejected documents that are older than 7 days
   - Update Approver name to approver column  
-
+![Screenshot (290)](https://github.com/CodePointCreativesPowerPlatform/Project-1-Document-Management-/assets/79313837/a4f9059b-ffb6-4d6a-956c-638bf13b76a9)
 ** Contribution:
-  I welcome contributions! If you have any ideas or improvements, please feel free to open an issue or submit a pull request. 
+  I welcome contributions! If you have any ideas or improvements, please feel free to open an issue.
+
 
 ## Contact Me:
 
