@@ -8,12 +8,12 @@ Welcome to the Document Library Organization project! This project aims to enhan
            Organize documents efficiently based on content type, department.
            This logical structure ensures that your documents are easily accessible and well-organized. 
 - Views:
-  Standard View:
+   - Standard View:
           Displays all documents in a list format.
-  Group by View:
+   - Group by View:
          Groups documents based on Approver name 
          Facilitates quick access to documents related to a particular category.
-  Calendar View:
+  - Calendar View:
          Suitable for documents with associated deadlines or dates. 
 
 - Filters:
@@ -33,10 +33,10 @@ Welcome to the Document Library Organization project! This project aims to enhan
    - Define metadata columns capturing information relevant to documents (e.g., Department, keywords, approval status). 
 
 - User Access and Security :
-- Set appropriate permissions for user groups. :
-  - Dive into our best practices and implementation techniques to enhance your Power Platform skills.
-  - Read access, Write access, Delete access, Upload access, Manage permissions.
-  - Divide users into groups based on roles and responsibilities. 
+   - Set appropriate permissions for user groups. :
+     - Dive into our best practices and implementation techniques to enhance your Power Platform skills.
+     - Read access, Write access, Delete access, Upload access, Manage permissions.
+     - Divide users into groups based on roles and responsibilities. 
 
 - Contribution:
   I welcome contributions! If you have any ideas or improvements, please feel free to open an issue or submit a pull request. 
