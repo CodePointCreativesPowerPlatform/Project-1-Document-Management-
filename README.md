@@ -27,4 +27,5 @@
 - When a new file is created or modified an automated flow is triggered that will send an approval request for the assigned person. Once the assigned person either approves or rejects the file, the column named Approval Status will be updated accordingly. 
 
 ### Demo of the project
+- link: https://files.fm/u/zj6sqk976y
 
