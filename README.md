@@ -26,5 +26,5 @@
 - Each time a file is modified a major version is created for that file. Members with the right permissions can revert back to former versions of a modified file.
 - When a new file is created or modified an automated flow is triggered that will send an approval request for the assigned person. Once the assigned person either approves or rejects the file, the column named Approval Status will be updated accordingly. 
 
-### Images from the project
+### Demo of the project
 
