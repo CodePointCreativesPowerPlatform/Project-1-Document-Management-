@@ -1,19 +1,18 @@
 # Document Management System
 
 ## Overview
- 
-- This Project 
 
-## Features
+ - This project aims to create an efficient document management system in sharepoint that facilitates smooth retrieval and approval of content enabled through implementing  
+ content types, metadata columns, integrated work flows, customized views and so on.
 
 ### Document Library Organization
 
-- **Logical Folders and Subfolders:**
-  - Organize documents based on content type, department, and other relevant criteria.
+- **Content Types:**
+  - For this project, Content Types were implemented in order to provide a structured content management that ensures consistency. The custom metadata columns can be easily added in the filters pane to make content retrieval very simple and customizable.
 
 - **Views:**
   - **Standard View:**
-    - Displays all documents in a list format with customizable columns (title, author, date created, modified date).
+    - 
   - **Group by View:**
     - Groups documents based on specific columns, facilitating quick access to documents related to a particular category.
   - **Calendar View:**
