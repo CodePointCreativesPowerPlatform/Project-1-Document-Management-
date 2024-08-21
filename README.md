@@ -12,25 +12,19 @@
 
 - **Views:**
   - **Standard View:**
-    - 
+    - lists all documents along with selected(customizable)columns. Visibility of documents depends on site permissions.
   - **Group by View:**
-    - Groups documents based on specific columns, facilitating quick access to documents related to a particular category.
+    - Documents are grouped based on one or more column values. Customized views can be created depending on specific needs.
   - **Calendar View:**
     - Displays documents as calendar events, suitable for documents with associated deadlines or dates.
 
 - **Filters:**
-  - **Basic Filters:**
-    - Filter documents by date created, modified date, author, or any displayed column.
-  - **Metadata Filters:**
-    - Utilize custom metadata columns for filtering based on keywords, tags, categories, or other relevant attributes.
+  - Custom metadata columns are pinned to the filters pane to assist in content filtering. Filtering can be done using one or more columns. Filtering is used in view creation.
 
 ### Version Control and Approval Workflows
 
-- **Version Control:**
-  - Track changes made to documents and revert to previous versions if needed.
-
-- **Approval Workflows:**
-  - Implement workflows to ensure proper review and authorization before finalizing documents.
+- Each time a file is modified a major version is created for that file. Members with the right permissions can revert back to former versions of a modified file.
+- When a new file is created or modified a flow is triggered that will send an approval request for the assigned person. Once the assigned person either approves or rejects the file, the column named Approval Status will be updated accordingly.
 
 ### Metadata Management
 
