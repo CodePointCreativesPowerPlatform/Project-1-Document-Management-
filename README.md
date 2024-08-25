@@ -12,9 +12,8 @@
   - The custom metadata columns can be easily added in the filters pane to make content retrieval very simple and customizable.
 
 - **Views:**
-  - Standard View: lists all documents along with selected(customizable)columns. Visibility of documents depends on site permissions.
+  - The standard view: lists all documents along with selected(customizable)columns. Visibility of documents depends on site permissions.
   - Group by Views: Documents are grouped based on one or more column values. Customized views can be created depending on specific needs.
-  - Calendar View: Displays documents as calendar events, suitable for documents with associated deadlines or dates.
   - Approve/reject view: Displays documents grouped by approved or rejected value.
 
 - **Filters:**
